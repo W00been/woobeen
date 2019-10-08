@@ -24,7 +24,7 @@ public ChatServer_test(){
 //메소드
 
 //진입점
-public static void main(String[] args) {
-  ChatServer_test obj = new ChatServer_test(); //클래스명 객체명 = new 생성자;
-}
+  public static void main(String[] args) {
+    ChatServer_test obj = new ChatServer_test(); //클래스명 객체명 = new 생성자;
+  }
 }
